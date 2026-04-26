@@ -1,13 +1,15 @@
-﻿namespace VovchukEK
+namespace VovchukEK
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            // Вовчук Евгений Константинович Ам-1-25
+            //solve task3
+            //solve task2
+            //solve task1
         }
-        // Вовчук Евгений Константинович Ам-1-25
-        //solve task3
+        static public double Sqr(double X);
     }
-    static public double Sqr(double X);
 }
